@@ -9,7 +9,7 @@ We will solve this question in two approaches
 1. Recheck formula calculations 
 2. Remove outliers
 
-### $ Average\ order\ value\ (AOV)  = \frac{Total\ Revenue}{Number\ of\ orders} $
+<img src="https://render.githubusercontent.com/render/math?math=Average\ order\ value\ (AOV) = \frac{Total\ Revenue}{Number\ of\ orders}">
 
 |     Average order value (AOV)    	|  Value  	|
 |:--------------------------------:	|:-------:	|
@@ -27,7 +27,7 @@ We will solve this question in two approaches
 ### Answer
 <b>Revenue per visitor (RPV)</b>: Revenue per visitor combines both conversions and AOV to give the whole picture. RPV is deceptively simple – it tells you how much revenue each unique visitor is driving.
 
-### $ Revenue\ per\ visitor\ (RPV)  = \frac{Total\ Revenue}{Total\ Unique\ Visitors} $
+<img src="https://render.githubusercontent.com/render/math?math=Revenue\ per\ visitor\ (RPV)  = \frac{Total\ Revenue}{Total\ Unique\ Visitors}">
 
 And along with that we can use Average order value (AOV)
 
